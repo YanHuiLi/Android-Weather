@@ -6,6 +6,7 @@ import com.thinkland.juheapi.common.CommonFun;
 
 /**
  * Created by Archer on 2015/12/27.
+ *
  */
 public class WeatherApplication extends Application {
 
